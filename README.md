@@ -7,9 +7,9 @@
 
 > [!IMPORTANT]
 > We are trying to make this mod working on the newest among us version v16.1.0 (5834)<br>
-> &check; Possible to Load the mod<br>
-> &check; Possible to use modded servers<br>
-> &check; Possible to get into a game with specific role<br>
+> &check; Load the mod<br>
+> &check; Modded servers<br>
+> &check; Into game with specific role<br>
 > &check; Know which role you are<br>
 > &check; Cosmetics<br>
 > &check; Switch roles ingame (only debug mode)<br>
