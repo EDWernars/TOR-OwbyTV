@@ -1,10 +1,13 @@
-![eisbison banner](./Images/TOR_logo.png)
+> [!NOTE]
+> This repo is a rewrite of [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) and is under constant development, expect bugs.
+> This mod is NOT for console versions of Among Us and is NOT host only either, please do not ask for a port or a rewrite.
+>
+> This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
+> To other mod devs: for usage of our code, please read and respect the <a href="#license">license</a>
+
 <p align="center"><a href="https://github.com/Eisbison/TheOtherRoles/releases/"><img src="https://badgen.net/github/release/eisbison/theotherroles"></a></p>
 
-
-This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.</p>
-<p align="center">
-  To other mod devs: for usage of our code, please read and respect the <a href="#license">license</a></p>
+![eisbison banner](./Images/TOR_logo.png)
 
 [![Discord](./Images/TOR_server.png)](https://discord.gg/77RkMJHWsM)
 ![eisbison infographic](./Images/TOR_Roles.png)
