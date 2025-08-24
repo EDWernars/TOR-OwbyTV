@@ -1,10 +1,21 @@
 > [!NOTE]
 > This repo is an updated version of [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) and is under constant development, expect bugs.
-> This mod is NOT for console versions of Among Us and is NOT host only either, please do not ask for a port or a rewrite.
+> This mod is PC only and we are only focussing on the Classic gamemode. We don't build support for the other gamemodes that [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) had.
 >
 > This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
 > To other mod devs: for usage of our code, please read and respect the <a href="#license">license</a>
 
+> [!IMPORTANT]
+> We are trying to make this mod working on the newest among us version v16.1.0 (5834)<br>
+> &check; Possible to Load the mod<br>
+> &check; Possible to use modded servers<br>
+> &check; Possible to get into a game with specific role<br>
+> &check; Know which role you are<br>
+> &check; Cosmetics<br>
+> &check; Switch roles ingame (only debug mode)<br>
+> &#x2610; Stable matchmaking<br>
+> &#x2610; Explaination what you have to do with your role<br>
+> &#x2610; Testing the Roles & Modifiers<br>
 <p align="center"><a href="https://github.com/Eisbison/TheOtherRoles/releases/"><img src="https://badgen.net/github/release/eisbison/theotherroles"></a></p>
 
 ![eisbison banner](./Images/TOR_logo.png)
