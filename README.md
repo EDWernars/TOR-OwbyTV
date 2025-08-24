@@ -1,5 +1,5 @@
 > [!NOTE]
-> This repo is a rewrite of [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) and is under constant development, expect bugs.
+> This repo is an updated version of [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) and is under constant development, expect bugs.
 > This mod is NOT for console versions of Among Us and is NOT host only either, please do not ask for a port or a rewrite.
 >
 > This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
