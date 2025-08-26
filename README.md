@@ -1369,7 +1369,8 @@ The Jester does not have any tasks. They win the game as a solo, if they get vot
 |----------|:-------------:|
 | Jester Spawn Chance | -
 | Jester Can Call Emergency Meeting | Option to disable the emergency button for the Jester
-|Jester Has Impostor Vision | -
+| Jester Has Impostor Vision | -
+| Jester can use vents | - 
 -----------------------
 
 ## Arsonist
