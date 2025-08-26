@@ -16,11 +16,10 @@
 > &#x2610; Stable matchmaking<br>
 > &#x2610; Explaination what you have to do with your role<br>
 > &#x2610; Testing the Roles & Modifiers<br>
-<p align="center"><a href="https://github.com/Eisbison/TheOtherRoles/releases/"><img src="https://badgen.net/github/release/eisbison/theotherroles"></a></p>
+<p align="center"><a href="https://github.com/Owby/TOR-OwbyTV/releases/"><img src="https://badgen.net/github/release/eisbison/theotherroles"></a></p>
 
 ![eisbison banner](./Images/TOR_logo.png)
 
-[![Discord](./Images/TOR_server.png)](https://discord.gg/77RkMJHWsM)
 ![eisbison infographic](./Images/TOR_Roles.png)
 
 
