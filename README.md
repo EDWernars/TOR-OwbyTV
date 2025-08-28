@@ -22,10 +22,9 @@
 &nbsp;&nbsp;&nbsp;&check; Vulture<br>
 &nbsp;&nbsp;&nbsp;&check; Eraser<br>
 &nbsp;&nbsp;&nbsp;&check; Medic<br>
-    
 > &#x2610; Stable matchmaking<br>
-    - Als imposters winnen, winnen de crewmates<br>
-    - Bij 2 imposters dan is de 2de imposters crewmate, maar heeft wel de rol van de imposter en de ability<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Als imposters winnen, winnen de crewmates<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Bij 2 imposters dan is de 2de imposters crewmate, maar heeft wel de rol van de imposter en de ability<br>
 > &#x2610; Explaination what you have to do with your role<br>
 > &#x2610; Testing the Roles & Modifiers<br>
 <p align="center"><a href="https://github.com/Owby/TOR-OwbyTV/releases/"><img src="https://badgen.net/github/release/Owby/TOR-OwbyTV"></a></p>
