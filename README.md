@@ -61,8 +61,8 @@
 &nbsp;&nbsp;&nbsp;&#x2610; Medium<br>
 &nbsp;&nbsp;&nbsp;&#x2610; Trapper<br>
 > &#x2610; Stable matchmaking<br>
-&nbsp;&nbsp;&nbsp;&#x2610; Als imposters winnen, winnen de crewmates<br>
-&nbsp;&nbsp;&nbsp;&#x2610; Bij 2 imposters dan is de 2de imposters crewmate, maar heeft wel de rol van de imposter en de ability<br>
+&nbsp;&nbsp;&nbsp;&#x2610; If the imposters win, the crewmates win<br>
+&nbsp;&nbsp;&nbsp;&#x2610; With two imposters, the second imposter is a crewmate, but has the role of the imposter and the ability.<br>
 > &#x2610; Explaination what you have to do with your role<br>
 > &#x2610; Testing the Roles & Modifiers<br>
 <p align="center"><a href="https://github.com/Owby/TOR-OwbyTV/releases/"><img src="https://badgen.net/github/release/Owby/TOR-OwbyTV"></a></p>
