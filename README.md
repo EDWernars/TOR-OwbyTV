@@ -61,7 +61,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610; Medium<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610; Trapper<br>
 > &#x2610; Testing the Modifiers<br>
-> &check; Stable matchmaking<br>
+> &#x2610; Stable matchmaking<br>
+&nbsp;&nbsp;&nbsp;&check; Game has an imposter, neutral and crewmate<br>
 &nbsp;&nbsp;&nbsp;&#x2610; If the imposters win, the crewmates win<br>
 &nbsp;&nbsp;&nbsp;&#x2610; With two imposters, the second imposter is a crewmate, but has the role of the imposter and the ability.<br>
 > &#x2610; Explaination what you have to do with your role<br>
