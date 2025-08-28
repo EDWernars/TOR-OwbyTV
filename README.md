@@ -12,6 +12,7 @@
 > &check; Into game with specific role<br>
 > &check; Know which role you are<br>
 > &check; Cosmetics<br>
+> &#x2610; Sound effects<br>
 > &check; Switch roles ingame (only debug mode)<br>
 > &#x2610; Testing the Roles<br>
 > &nbsp;&nbsp;&nbsp;Imposters:<br>
