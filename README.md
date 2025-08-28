@@ -14,14 +14,52 @@
 > &check; Cosmetics<br>
 > &check; Switch roles ingame (only debug mode)<br>
 > &#x2610; Testing the Roles & Modifiers<br>
-&nbsp;&nbsp;&nbsp;&check; Swapper<br>
+> Imposters:<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Godfather (Mafia)<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Mafioso (Mafia)<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Janitor (Mafia)<br>
 &nbsp;&nbsp;&nbsp;&check; Evil Guesser<br>
-&nbsp;&nbsp;&nbsp;&check; Nice Guesser<br>
-&nbsp;&nbsp;&nbsp;&check; Jester<br>
-&nbsp;&nbsp;&nbsp;&check; Jackal<br>
-&nbsp;&nbsp;&nbsp;&check; Vulture<br>
 &nbsp;&nbsp;&nbsp;&check; Eraser<br>
+&nbsp;&nbsp;&nbsp;&check; Morphling<br>
+&nbsp;&nbsp;&nbsp;&check; Camouflager<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Vampire<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Trickster<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Cleaner<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Warlock<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Bounty Hunter<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Witch<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Ninja<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Bomber<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Yo-Yo<br>
+> Neutrals:<br>
+&nbsp;&nbsp;&nbsp;&check; Jackal<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610; SideKick<br>
+&nbsp;&nbsp;&nbsp;&check; Vulture<br>
+&nbsp;&nbsp;&nbsp;&check; Jester<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Arsonist<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Lawyer<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Prosecutor<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Pursuer<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Thief<br>
+&nbsp;&nbsp;&nbsp;&check; Swapper<br>
+> Crewmates:<br>
+&nbsp;&nbsp;&nbsp;&check; Nice Guesser<br>
 &nbsp;&nbsp;&nbsp;&check; Medic<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Mayor<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Engineer<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Deputy<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Lighter<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Detective<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Time Master<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Seer<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Hacker<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Tracker<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Snitch<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Spy<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Portalmaker<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Security Guard<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Medium<br>
+&nbsp;&nbsp;&nbsp;&#x2610; Trapper<br>
 > &#x2610; Stable matchmaking<br>
 &nbsp;&nbsp;&nbsp;&#x2610; Als imposters winnen, winnen de crewmates<br>
 &nbsp;&nbsp;&nbsp;&#x2610; Bij 2 imposters dan is de 2de imposters crewmate, maar heeft wel de rol van de imposter en de ability<br>
