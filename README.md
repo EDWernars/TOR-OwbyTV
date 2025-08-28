@@ -46,10 +46,10 @@
 > &nbsp;&nbsp;&nbsp;Crewmates:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&check; Nice Guesser<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&check; Medic<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610; Mayor<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&check; Mayor<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610; Engineer<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610; Deputy<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610; Lighter<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&check; Lighter<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610; Detective<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610; Time Master<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610; Seer<br>
@@ -58,10 +58,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610; Snitch<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610; Spy<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610; Portalmaker<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610; Security Guard<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&check; Security Guard<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Camera's not visible on security<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610; Medium<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x2610; Trapper<br>
 > &#x2610; Testing the Modifiers<br>
+&nbsp;&nbsp;&nbsp;&check;Chameleon<br>
 > &#x2610; Stable matchmaking<br>
 &nbsp;&nbsp;&nbsp;&check; Game has an imposter, neutral and crewmate<br>
 &nbsp;&nbsp;&nbsp;&#x2610; If the imposters win, the crewmates win<br>
