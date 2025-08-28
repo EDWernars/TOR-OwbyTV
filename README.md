@@ -13,7 +13,19 @@
 > &check; Know which role you are<br>
 > &check; Cosmetics<br>
 > &check; Switch roles ingame (only debug mode)<br>
+> &#x2610; Testing the Roles & Modifiers<br>
+&nbsp;&nbsp;&nbsp;&check; Swapper<br>
+&nbsp;&nbsp;&nbsp;&check; Evil Guesser<br>
+&nbsp;&nbsp;&nbsp;&check; Nice Guesser<br>
+&nbsp;&nbsp;&nbsp;&check; Jester<br>
+&nbsp;&nbsp;&nbsp;&check; Jackal<br>
+&nbsp;&nbsp;&nbsp;&check; Vulture<br>
+&nbsp;&nbsp;&nbsp;&check; Eraser<br>
+&nbsp;&nbsp;&nbsp;&check; Medic<br>
+    
 > &#x2610; Stable matchmaking<br>
+    - Als imposters winnen, winnen de crewmates<br>
+    - Bij 2 imposters dan is de 2de imposters crewmate, maar heeft wel de rol van de imposter en de ability<br>
 > &#x2610; Explaination what you have to do with your role<br>
 > &#x2610; Testing the Roles & Modifiers<br>
 <p align="center"><a href="https://github.com/Owby/TOR-OwbyTV/releases/"><img src="https://badgen.net/github/release/Owby/TOR-OwbyTV"></a></p>
